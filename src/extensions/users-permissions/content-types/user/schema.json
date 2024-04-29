@@ -102,6 +102,12 @@
       "relation": "oneToMany",
       "target": "api::post.post",
       "mappedBy": "favorite"
+    },
+    "link_llamada": {
+      "type": "string"
+    },
+    "link_reunion": {
+      "type": "string"
     }
   }
 }
