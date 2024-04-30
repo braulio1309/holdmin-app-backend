@@ -21,7 +21,9 @@
     "react-router-dom": "5.3.4",
     "styled-components": "5.3.3",
     "@types/pg": "^8.11.0",
-    "@strapi/provider-upload-aws-s3": "^4.23.0"
+    "@strapi/provider-upload-aws-s3": "^4.23.0",
+    "pg": "^8.11.3",
+    "pg-connection-string": "^2.6.2"
   },
   "author": {
     "name": "A Strapi developer"
